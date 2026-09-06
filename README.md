@@ -1,2 +1,2 @@
 flutter pub get
-flutter
+flutter run
